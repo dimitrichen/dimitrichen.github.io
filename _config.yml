@@ -3,7 +3,7 @@ title: Dimitri Blog
 SEOTitle: 陈熙的博客 | Dimitri Blog
 header-img: img/post-bg-desk.jpg
 email: dimitri.chenxi@foxmail.com
-description: "Every failure is leading towards success."
+description: "I was the pilot of the shooting star."
 keyword: "Dimitri, Dimitri Blog, 陈熙的博客, chenxi, 陈熙, 日记"
 url: "http:/dimitrichen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/dimitrichen/dimitrichen.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "I was the pilot of the shooting star."
 sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
